@@ -11,5 +11,6 @@
       <?php
     echo '<p>This is a change from replit!</p>';
     ?>
+    <p>My VSCODE is giving me a fatl error message</p>
   </body>
 </html>
